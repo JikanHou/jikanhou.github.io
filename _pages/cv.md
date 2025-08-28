@@ -16,8 +16,7 @@ Education
 
 Work experience
 ======
-* Aug 2022 - Present: Marketing Specialist / Event Executor 
-* Saka Saka Ltd., Hunan, China
+* Aug 2022 - Present: Marketing Specialist / Event Executor - Saka Saka Ltd., Hunan, China
   * Supported the organization of large-scale events (up to 10,000 participants/day) by designing data
 management workflows.
   * Implemented automated web crawlers and plug-ins for tournament result tracking, improving data
@@ -25,8 +24,7 @@ reliability and backup efficiency.
   * Designing and implementing a pairing application for large-scale events, streamlining distribution of
 match assignments to participants.
 
-* 2021 - 2022: C Engineer
-* Industrial Bank, Hunan, China
+* 2021 - 2022: C Engineer - Industrial Bank, Hunan, China
   * Managed a high-volume database (millions of rows) for financial transaction analysis.
 Optimized data queries and reconstructed workflow to improve efficiency, reducing pipeline runtime by
 ~45%.
