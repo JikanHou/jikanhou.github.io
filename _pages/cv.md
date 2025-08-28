@@ -11,26 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science(Expected), Drew University, 2023 - Present
+* Undergraduate Study in Computer Science, Drew University, 2016 - 2019 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2022 - Present: Marketing Specialist / Event Executor 
+* Saka Saka Ltd., Hunan, China
+  * Supported the organization of large-scale events (up to 10,000 participants/day) by designing data
+management workflows.
+  * Implemented automated web crawlers and plug-ins for tournament result tracking, improving data
+reliability and backup efficiency.
+  * Designing and implementing a pairing application for large-scale events, streamlining distribution of
+match assignments to participants.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - 2022: C Engineer
+* Industrial Bank, Hunan, China
+  * Managed a high-volume database (millions of rows) for financial transaction analysis.
+Optimized data queries and reconstructed workflow to improve efficiency, reducing pipeline runtime by
+~45%.
+  * Developed robust data processing workflows, ensuring accuracy of results.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
@@ -40,7 +42,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
