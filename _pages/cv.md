@@ -30,16 +30,15 @@ Optimized data queries and reconstructed workflow to improve efficiency, reducin
 ~45%.
   * Developed robust data processing workflows, ensuring accuracy of results.
 
-
+Other Projects
+=====
+* Developed a medical records management system to support clinical research for a Phd research group
+at Xiangya Hospital. Implemented secure and efficient data storage, retrieval, and backup mechanisms,
+enhancing the research group’s workflow and data integrity.
+* Developed a brainwave data visualization and analysis tool for the same PhD research group. Enabled
+efficient analysis and interpretation of neural signals, facilitating research on brain activity patterns.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 <!--
 Publications
 ======
