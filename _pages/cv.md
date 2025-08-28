@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+If you prefer a well-formatted one: <a href="{{base_path}}/files/Resume.pdf">Here</a>
+
 Education
 ======
 * B.S. in Computer Science(Expected), Drew University, 2023 - Present
-* Undergraduate Study in Computer Science, Drew University, 2016 - 2019 
+* Undergraduate Study in Computer Science, Zhejiang University, 2016 - 2019 
 
 Work experience
 ======
