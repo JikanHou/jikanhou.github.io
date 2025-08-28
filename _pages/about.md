@@ -13,6 +13,7 @@ My research and engineering experiences reflect my interest in **AI, data system
 
 - **Medical Research Applications**: Developed a **medical records management system** and a **brainwave data visualization tool** for a PhD group at **Xiangya Hospital**, enabling efficient clinical data analysis and interpretation of neural signals.  
 - **Data Engineering for Finance**: As a **C Engineer at Industrial Bank**, optimized large-scale transaction databases (millions of rows), reconstructing workflows that reduced pipeline runtimes by ~45%.  
-- **AI-Driven Event Management**: At **Saka Saka Ltd**, designed automated data pipelines and built a **pairing application** for events with up to 10,000 participants/day, applying algorithmic optimization to real-world logistics.  
+- **Event Management**: At **Saka Saka Ltd**, designed automated data pipelines and built a **pairing application** for events with up to 10,000 participants/day, applying algorithmic optimization to real-world logistics.  
 
 With a consistent record of **academic excellence** (major GPA: 3.9/4, multiple scholarships) and **competitive programming achievements through ACM-ICPC**, I bring both **theoretical rigor** and **practical engineering skills**. I am motivated to pursue a **PhD in Artificial Intelligence**, where I hope to contribute to the development of intelligent systems that integrate **efficient algorithms, scalable data architectures, and domain-driven applications** in fields such as **healthcare and computational neuroscience**.
+
