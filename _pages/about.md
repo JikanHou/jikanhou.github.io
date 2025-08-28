@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am **Zihan Peng**, a Computer Science undergraduate at **Drew University** with a strong academic and research-oriented background in computer science and applied mathematics. I previously studied at **Zhejiang University’s Chu Kochen Honors College**, where I developed rigorous foundations in algorithms, data structures, and computational theory. During this time, I was an active member of the **ACM-ICPC team**, earning **two national silver medals** in algorithmic programming competitions, which honed my skills in algorithm design, optimization, and teamwork under pressure.
 
 My research and engineering experiences reflect my interest in **AI, data systems, and computational intelligence**:
